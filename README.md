@@ -1,4 +1,4 @@
-camel-simple-rest-temperature-converter
+camel-rest-temperature-converter
 =======================================
 
-Simple Camel example - REST temperature conversion
+Just a silly Camel example - REST temperature conversion
